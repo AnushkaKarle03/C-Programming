@@ -8,5 +8,5 @@ int main()
     scanf("%d",&n);
    int sqroot=sqrt(n);
     printf("sqroot is %d",sqroot);
-    return 0;
+    return 0
 }
